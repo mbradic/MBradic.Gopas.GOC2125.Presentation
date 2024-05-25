@@ -6,4 +6,3 @@
     public double Radius { get; init; }
     public double Area => PI * Radius * Radius;
 }
-
